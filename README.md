@@ -1,11 +1,12 @@
-### Hi there 👋
-  I am Zijian Ling 凌子健， a final year undergraduate in University of Nottingham UK | ex-SDE intern @ Ant Group | Now Research Intern @ ZJU
+### Hi there, I'm Zijian 👋
+  I am Zijian Ling 凌子健， a final year undergraduate in University of Nottingham UK
   
   - 🌱 I’m currently learning Visual Tracking and 3D Point Cloud
   - :open_book: I'm currently looking for 2022 Autumn Ph.D. related to Computer Vision and 2022 Summer Intern opportunity
-  - 💬 Ask me about anything here
-  - 
+  - 💬 Ask me about anything [here](https://github.com/Georgelingzj/Georgelingzj/issues)
   - ⚡ Fun fact: keep working out(gym, basketball) in every afternoon | :world_map: world traveller
+  - 📫 How to reach me: :email: georgeling.0330@gmail.com | :email: scyzl4@exmail.nottingham.ac.uk 
+  
 <!--
 **Georgelingzj/Georgelingzj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
