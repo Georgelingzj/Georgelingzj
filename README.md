@@ -3,7 +3,7 @@
   
   - 🌱 I’m currently learning Visual Tracking and 3D Point Cloud
   - :open_book: I'm currently looking for 2022 Autumn Ph.D. related to Computer Vision and 2022 Summer Intern opportunity
-  - :thumbsup: My Tempo Personal Page is [here](https://georgelingzj.github.io/tempo-personal-page/). I will update it soon!
+  - :thumbsup: My Tempo Personal Page is [here](https://github.com/Georgelingzj/personal-page). I will update it soon!
   - 💬 Ask me about anything [here](https://github.com/Georgelingzj/Georgelingzj/issues)
   - ⚡ Fun fact: keep working out(gym, basketball) in every afternoon | :world_map: world traveller
   - 📫 How to reach me: :email: georgeling.0330@gmail.com | :email: scyzl4@exmail.nottingham.ac.uk 
