@@ -2,7 +2,7 @@
   I am Zijian Ling 凌子健， a final year undergraduate in University of Nottingham UK
   
   - 🌱 I’m currently learning Visual Tracking and 3D Point Cloud
-  - :open_book: I'm currently looking for 2022 Autumn Ph.D. related to Computer Vision and 2022 Summer Intern opportunity
+  - :open_book: I'm currently looking for 2022 Autumn graduate related to Computer Vision and 2022 Summer Intern opportunity
   - :thumbsup: My Tempo Personal Page is [here](https://georgelingzj.github.io). I will update it soon!
   - 💬 Ask me about anything [here](https://github.com/Georgelingzj/Georgelingzj/issues)
   - ⚡ Fun fact: keep working out(gym, basketball) in every afternoon | :world_map: world traveller
