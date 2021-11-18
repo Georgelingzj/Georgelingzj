@@ -1,11 +1,10 @@
 ### Hi there, I'm Zijian 👋
   I am Zijian Ling 凌子健， a final year undergraduate in University of Nottingham UK
   
-  - 🌱 I’m currently learning Visual Tracking and 3D Point Cloud
+  - 🌱 I’m currently learning Visual Tracking
   - :open_book: I'm currently looking for 2022 Autumn graduate related to Computer Vision and 2022 Summer Intern opportunity
-  - :thumbsup: My Tempo Personal Page is [here](https://georgelingzj.github.io). I will update it soon!
-  - 💬 Ask me about anything [here](https://github.com/Georgelingzj/Georgelingzj/issues)
-  - ⚡ Fun fact: keep working out(gym, basketball) in every afternoon | :world_map: world traveller
+  - :thumbsup: My Tempo Personal Page is [here](https://georgelingzj.github.io)
+  - ⚡ Fun fact: keep workout | :world_map: world traveller
   - 📫 How to reach me: :email: georgeling.0330@gmail.com | :email: scyzl4@exmail.nottingham.ac.uk 
   
 <!--
