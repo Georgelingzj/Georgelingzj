@@ -1,11 +1,7 @@
 ### Hi there, I'm Zijian 👋
   I am Zijian Ling 凌子健， a final year undergraduate in University of Nottingham UK
   
-  - 🌱 I’m currently learning Computer Vision and Deep Learning
-  - :open_book: I'm currently looking for 2022 Summer Intern opportunity
   - :thumbsup: My Personal Page is [here](https://georgelingzj.github.io)
-  - ⚡ Fun fact: :world_map: world traveller
-  - 📫 How to reach me: :email: georgeling.0330@gmail.com | :email: scyzl4@exmail.nottingham.ac.uk 
   
 <!--
 **Georgelingzj/Georgelingzj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
