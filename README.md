@@ -1,8 +1,8 @@
 ### Hi there, I'm Zijian 👋
-  I am Zijian Ling 凌子健， a incoming master student at Imperial College London, major in MRes Artificial Intelligence and Machine Learning. I graduated from University of Nottingham with BSc in Computer Science with Artificial Intelligence in 2022.
+  I am Zijian Ling 凌子健， an incoming master student at Imperial College London, major in MRes Artificial Intelligence and Machine Learning. I graduated from University of Nottingham with BSc in Computer Science with Artificial Intelligence in 2022.
   
   - :thumbsup: My Personal Page is [here](https://georgelingzj.github.io)(Currently Unavailable)
-  - :thumbsup: My LinkedIn Page is [https://www.linkedin.com/in/zijian-ling-a761a71b7/]https://www.linkedin.com/in/zijian-ling-a761a71b7/
+  - :thumbsup: My LinkedIn Page is [here](https://www.linkedin.com/in/zijian-ling-a761a71b7/)
   
 <!--
 **Georgelingzj/Georgelingzj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
